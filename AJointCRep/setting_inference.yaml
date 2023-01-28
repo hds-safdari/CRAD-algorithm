@@ -1,0 +1,11 @@
+undirected : False
+assortative : True
+err : 0.1
+tolerance : 0.1
+verbose: 2
+N_real : 1
+max_iter : 500
+end_file : '.dat'
+out_inference: True
+initialization: 0
+in_parameters: '../data/input/synthetic/theta_500_3_20.0_0.3_0.1_False_0' 
